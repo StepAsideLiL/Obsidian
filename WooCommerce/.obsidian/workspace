@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "0bae1c1eb95a3a53",
+    "type": "split",
+    "children": [
+      {
+        "id": "16538e12c1dfc429",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "871138d196f3b9ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cb2f070577ff346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d8c02b26248d0b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa71c3cea5e668b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201
+  },
+  "right": {
+    "id": "688548467e1e2f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "1edad5bacd582e1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3f83da5511103c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "16538e12c1dfc429",
+  "lastOpenFiles": [
+    "includes/class-wc-post-types.php.md",
+    "includes/class-wc-install.php.md",
+    "includes/class-woocommerce.php.md",
+    "woocommerce.php.md"
+  ]
+}

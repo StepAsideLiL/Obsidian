@@ -1,0 +1,2 @@
+# What is 'Post Types'
+As we know, WordPress is a Content Management System(CMS). There are different types of content on a website, such as blogs, news reports, product pages, recipes, etc. These contents are referred to as 'Post Types' in WordPress.

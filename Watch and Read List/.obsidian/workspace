@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "052aff58ae104f80",
+    "type": "split",
+    "children": [
+      {
+        "id": "45d5fcf917d30ca9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Watch List/Anime - Want to Watch.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30835c46c3490b2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "49358205d4e770cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c12a42700ef32b75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "23acc5f2f6207c0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 180
+  },
+  "right": {
+    "id": "5fedd71457600d10",
+    "type": "split",
+    "children": [
+      {
+        "id": "21a512f9679c5afc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6f461f6a33d87cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Watch List/Anime - Want to Watch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "45d5fcf917d30ca9",
+  "lastOpenFiles": [
+    "Watch List/Anime - Want to Watch.md",
+    "Watch List/Anime - Watching (ongoing).md",
+    "Map.md"
+  ]
+}

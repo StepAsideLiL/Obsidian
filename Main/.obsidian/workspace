@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "6ff8c53c057672c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "86d7cfc3d9b3e894",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Currently Writing Blogs/Custom Post Types/WordPress Plugin Dev Custom Post Types.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b894c76c3afb21a",
+    "type": "split",
+    "children": [
+      {
+        "id": "935e419fd9a0c8cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0527dc5809ead084",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a29cb20ebfa50d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209
+  },
+  "right": {
+    "id": "5eca94e3fe701ef9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b591911c135090c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d6f055085610d0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Currently Writing Blogs/Custom Post Types/WordPress Plugin Dev Custom Post Types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4e5110fa0a20e7d7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "86d7cfc3d9b3e894",
+  "lastOpenFiles": [
+    "Currently Writing Blogs/Custom Post Types/WordPress Plugin Dev Custom Post Types.md",
+    "notes.md",
+    "Currently Writing Blogs/Custom Post Types/Note.md",
+    "WordPress/wpdb/Note.md",
+    "WordPress/Plugin/Learn WordPress Plugin Development/Plugin Basics/Header Requirments.md",
+    "[do_action().md",
+    "My published blog/Plugin Header/Plugin Header Comment.md",
+    "My published blog/wp-plugin-dev/WordPress Plugin Development.md",
+    "WordPress/Custom Post Type/Note.md",
+    "WordPress/Custom Post Type/CPT.md"
+  ]
+}
