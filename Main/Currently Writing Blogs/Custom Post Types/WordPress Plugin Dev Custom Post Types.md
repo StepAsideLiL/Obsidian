@@ -35,3 +35,5 @@ function register_cpt() {
     flush_rewrite_rules();
 }
 ```
+It is not much code, but let's break it down anyway.
+The first three lines are the plugin header comment containing the plugin name. The next line is for calling the callback function during the init action.
