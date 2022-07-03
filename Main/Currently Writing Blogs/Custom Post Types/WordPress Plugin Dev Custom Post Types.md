@@ -36,4 +36,4 @@ function register_cpt() {
 }
 ```
 It is not much code, but let's break it down anyway.
-The first three lines are the plugin header comment containing the plugin name. The next line is for calling the callback function during the init action.
+The first three lines are the plugin header comment containing the plugin name. The next line is for calling the callback function during the init action.....
