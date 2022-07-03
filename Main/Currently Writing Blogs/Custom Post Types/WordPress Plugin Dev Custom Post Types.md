@@ -13,3 +13,24 @@ There are default Post Types readily available to users or internally used by th
 -   Block templates (Post Type: ‘wp_template’)
 -   Template parts (Post Type: ‘wp_template_part’)
 <br>
+# Some Importent Terminology
+
+<br>
+# Register a Custom Post Type
+Here is minimal coding for registering a custom post type.
+```php
+/**
+ * Plugin Name: Custom Post Type
+ */
+
+add_action( 'init', 'register_cpt' );
+function register_cpt() {
+    register_post_type(
+        'custom-post',
+        array(
+            'public' => true,
+        )
+    );
+    flush_rewrite_rules();
+}
+```
