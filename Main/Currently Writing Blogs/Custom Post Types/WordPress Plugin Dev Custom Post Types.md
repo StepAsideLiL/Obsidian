@@ -19,6 +19,7 @@ There are default Post Types readily available to users or internally used by th
 # Register a Custom Post Type
 Here is minimal coding for registering a custom post type.
 ```php
+<?php
 /**
  * Plugin Name: Custom Post Type
  */
