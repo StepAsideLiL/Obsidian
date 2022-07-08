@@ -1,2 +1,3 @@
 - Synopsis ( for project )
 - Branding Plugin - (logo, site title and stuff)
+- [Nexter WP](https://nexterwp.com/)
