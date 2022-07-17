@@ -1,0 +1,11 @@
+- [ ] PHP (OOP, namespacing, traits, etc)
+- [ ] Composer
+- [ ] JavasScript (vanilla JS, jQuery, ES6, etc)
+- [ ] API Webhooks
+- [ ] working with third-party APIs (Eg Stripe, MailChimp, Zapier, etc)
+- [ ] SASS, Bootstrap etc.
+- [ ] rest API
+- [ ] react
+- [ ] vuejs
+- [ ] database and MySQL
+- [ ] task automation- example: gulp, webpack, laravel mix

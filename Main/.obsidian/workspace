@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WordPress/Plugin/Plugin Idea/List.md",
+            "file": "Quest Of Job/Jobs.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WordPress/Plugin/Plugin Idea/List.md",
+                "file": "Quest Of Job/Jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,15 +98,15 @@
   },
   "active": "86d7cfc3d9b3e894",
   "lastOpenFiles": [
-    "WordPress/Plugin/Plugin Idea/List.md",
-    "Currently Writing Blogs/Think in CSS/note.md",
-    "Interested.md",
+    "Quest Of Job/Jobs.md",
+    "Quest Of Job/Job Requirements.md",
+    "wpcommerz.com.md",
+    "Jobs.md",
+    "Quest Of Job/Todo before JOB.md",
+    "Untitled.md",
     "notes.md",
-    "Currently Writing Blogs/wpdb/Note.md",
-    "Currently Writing Blogs/wpdb/wpdb.md",
-    "Currently Writing Blogs/Action and Filter/Action and Filter.md",
-    "Currently Writing Blogs/Custom Post Types/WordPress Plugin Dev Custom Post Types.md",
-    "Currently Writing Blogs/Custom Post Types/Note.md",
-    "Currently Writing Blogs/Action and Filter/Note.md"
+    "Interested.md",
+    "WordPress/Plugin/Plugin Idea/List.md",
+    "Currently Writing Blogs/Think in CSS/note.md"
   ]
 }
