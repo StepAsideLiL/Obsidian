@@ -4,6 +4,8 @@
 	- facebook for local
 	- twitter for international
 	- linkedin
+		- stackoverflow profile
+- compatitive coding
 
 
 ### List of Project I have to add to my github
